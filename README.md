@@ -15,7 +15,8 @@ Experiencia liderando soluciones backend en entornos cloud, con foco en calidad 
 ### Backend & Runtime
 
 ![Java Spring](https://img.shields.io/badge/Java%20Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ### Frontend
 
