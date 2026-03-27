@@ -20,21 +20,21 @@ Experiencia liderando soluciones backend en entornos cloud, con foco en calidad 
 
 ### Frontend
 
-https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white
-https://img.shields.io/badge/PrimeNG-009688?style=flat
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-009688?style=flat)
 
 ### Cloud & DevOps
 
-https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
-https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white
-https://img.shields.io/badge/ArgoCD-FE5000?style=flat&logo=argo&logoColor=white
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FE5000?style=flat&logo=argo&logoColor=white)
 
 ### Data
 
-https://img.shields.io/badge/PostgreSQL-003B57?style=flat&logo=postgresql&logoColor=white
-https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 ---
 
