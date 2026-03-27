@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola, soy Francisco Javier Seara! 👋
 
-<!--
-**fseara22/fseara22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Lead de Microservicios en Air Europa**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+![Languages](https://skillicons.dev)
+
+- **Backend:** Node.js, Java Spring
+- **Frontend:** Angular, PrimeNG
+- **DevOps/Cloud:** Docker, Kubernetes, AWS, S3, ArgoCD
+- **Bases de datos:** PostgreSQL, Oracle
+
+---
+
+### 📈 Estadísticas de GitHub
+
+![](https://github-readme-stats.vercel.app)
+![](https://github-readme-stats.vercel.app)
+
+---
+
+### ⚡ Contacto
+- 💼 [LinkedIn](https://www.linkedin.com/in/francisco-javier-seara-fuertes-381639122)
+- 🌐 [Portfolio](https://tuportfolio.com)
+- ✉️ [Correo](mailto:fjsf22@gmail.com)
+
+---
+> "Escribiendo código limpio y documentación clara."
