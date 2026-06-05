@@ -52,7 +52,9 @@ Actualmente liderando un equipo de 5 desarrolladores en Air Europa, con ownershi
 ![Consul](https://img.shields.io/badge/Consul-F24C53?style=flat&logo=consul&logoColor=white)
 
 ### IA & Productividad
+### IA & Productividad
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
